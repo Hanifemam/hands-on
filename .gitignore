@@ -8,7 +8,7 @@ __pycache__/
 cat > .gitignore <<'EOF'
 __pycache__/
 *.pyc
-
+**/*.pkl
 # Project outputs & data
 apple_type_prediction/data_sets/
 apple_type_prediction/temp_data/
@@ -30,6 +30,7 @@ apple_type_prediction/temp_data/
 *.png
 *.jpg
 *.jpeg
+*.pkl
 EOF
 
 git add .gitignore
