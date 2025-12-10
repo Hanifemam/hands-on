@@ -17,6 +17,8 @@ apple_type_prediction/temp_data/
 **/outputs/
 **/plots/
 **/logs/
+**/datasets/
+*/datasets
 
 # Large artifacts
 *.pth
