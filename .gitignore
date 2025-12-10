@@ -222,3 +222,4 @@ apple_type_prediction/temp_data/
 .DS_Store
 # temp
 apple_type_prediction/temp_data/
+chap2/final_model.pkl
